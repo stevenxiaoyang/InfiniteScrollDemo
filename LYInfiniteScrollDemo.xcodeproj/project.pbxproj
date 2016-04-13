@@ -7,14 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC16DF551CBE2B0C00BA2015 /* ViewsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC16DF541CBE2B0C00BA2015 /* ViewsViewController.swift */; };
+		AC17657F1CB5EB60003A70A7 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC17657E1CB5EB60003A70A7 /* TableViewController.swift */; };
+		AC477A601CBCA3A7000EA1E8 /* ScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC477A5F1CBCA3A7000EA1E8 /* ScrollViewController.swift */; };
 		ACC1B94B1CB350A400E9EC51 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC1B94A1CB350A400E9EC51 /* AppDelegate.swift */; };
 		ACC1B94D1CB350A400E9EC51 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC1B94C1CB350A400E9EC51 /* ViewController.swift */; };
 		ACC1B9501CB350A400E9EC51 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B94E1CB350A400E9EC51 /* Main.storyboard */; };
 		ACC1B9521CB350A400E9EC51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9511CB350A400E9EC51 /* Assets.xcassets */; };
 		ACC1B9551CB350A400E9EC51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9531CB350A400E9EC51 /* LaunchScreen.storyboard */; };
+		ACC1B95D1CB35BC800E9EC51 /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC1B95C1CB35BC800E9EC51 /* CollectionViewController.swift */; };
+		ACC1B9681CB3876200E9EC51 /* 001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B95F1CB3876200E9EC51 /* 001.jpg */; };
+		ACC1B9691CB3876200E9EC51 /* 002.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9601CB3876200E9EC51 /* 002.jpg */; };
+		ACC1B96A1CB3876200E9EC51 /* 003.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9611CB3876200E9EC51 /* 003.jpg */; };
+		ACC1B96B1CB3876200E9EC51 /* 004.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9621CB3876200E9EC51 /* 004.jpg */; };
+		ACC1B96C1CB3876200E9EC51 /* 005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9631CB3876200E9EC51 /* 005.jpg */; };
+		ACC1B96D1CB3876200E9EC51 /* 006.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9641CB3876200E9EC51 /* 006.jpg */; };
+		ACC1B96E1CB3876200E9EC51 /* 007.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9651CB3876200E9EC51 /* 007.jpg */; };
+		ACC1B96F1CB3876200E9EC51 /* 008.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9661CB3876200E9EC51 /* 008.jpg */; };
+		ACC1B9701CB3876200E9EC51 /* 009.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACC1B9671CB3876200E9EC51 /* 009.jpg */; };
+		ACC1B9731CB397B400E9EC51 /* CustomLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACC1B9721CB397B400E9EC51 /* CustomLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC16DF541CBE2B0C00BA2015 /* ViewsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsViewController.swift; sourceTree = "<group>"; };
+		AC17657E1CB5EB60003A70A7 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		AC477A5F1CBCA3A7000EA1E8 /* ScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollViewController.swift; sourceTree = "<group>"; };
 		ACC1B9471CB350A400E9EC51 /* LYInfiniteScrollDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LYInfiniteScrollDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACC1B94A1CB350A400E9EC51 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACC1B94C1CB350A400E9EC51 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +39,17 @@
 		ACC1B9511CB350A400E9EC51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACC1B9541CB350A400E9EC51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACC1B9561CB350A400E9EC51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACC1B95C1CB35BC800E9EC51 /* CollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CollectionViewController.swift; path = LYInfiniteScrollDemo/CollectionViewController.swift; sourceTree = SOURCE_ROOT; };
+		ACC1B95F1CB3876200E9EC51 /* 001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 001.jpg; sourceTree = "<group>"; };
+		ACC1B9601CB3876200E9EC51 /* 002.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 002.jpg; sourceTree = "<group>"; };
+		ACC1B9611CB3876200E9EC51 /* 003.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 003.jpg; sourceTree = "<group>"; };
+		ACC1B9621CB3876200E9EC51 /* 004.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 004.jpg; sourceTree = "<group>"; };
+		ACC1B9631CB3876200E9EC51 /* 005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 005.jpg; sourceTree = "<group>"; };
+		ACC1B9641CB3876200E9EC51 /* 006.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 006.jpg; sourceTree = "<group>"; };
+		ACC1B9651CB3876200E9EC51 /* 007.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 007.jpg; sourceTree = "<group>"; };
+		ACC1B9661CB3876200E9EC51 /* 008.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 008.jpg; sourceTree = "<group>"; };
+		ACC1B9671CB3876200E9EC51 /* 009.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 009.jpg; sourceTree = "<group>"; };
+		ACC1B9721CB397B400E9EC51 /* CustomLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +63,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AC17657D1CB5EB30003A70A7 /* TableView */ = {
+			isa = PBXGroup;
+			children = (
+				AC17657E1CB5EB60003A70A7 /* TableViewController.swift */,
+			);
+			path = TableView;
+			sourceTree = "<group>";
+		};
+		AC477A5E1CBCA33A000EA1E8 /* ScrollView */ = {
+			isa = PBXGroup;
+			children = (
+				AC477A5F1CBCA3A7000EA1E8 /* ScrollViewController.swift */,
+			);
+			path = ScrollView;
+			sourceTree = "<group>";
+		};
+		AC5CC5A31CBBAEAA006AD0DB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				AC16DF541CBE2B0C00BA2015 /* ViewsViewController.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		ACC1B93E1CB350A400E9EC51 = {
 			isa = PBXGroup;
 			children = (
@@ -54,6 +106,11 @@
 		ACC1B9491CB350A400E9EC51 /* LYInfiniteScrollDemo */ = {
 			isa = PBXGroup;
 			children = (
+				AC477A5E1CBCA33A000EA1E8 /* ScrollView */,
+				AC5CC5A31CBBAEAA006AD0DB /* Views */,
+				AC17657D1CB5EB30003A70A7 /* TableView */,
+				ACC1B9711CB396C400E9EC51 /* Collection */,
+				ACC1B95E1CB3876200E9EC51 /* images */,
 				ACC1B94A1CB350A400E9EC51 /* AppDelegate.swift */,
 				ACC1B94C1CB350A400E9EC51 /* ViewController.swift */,
 				ACC1B94E1CB350A400E9EC51 /* Main.storyboard */,
@@ -62,6 +119,31 @@
 				ACC1B9561CB350A400E9EC51 /* Info.plist */,
 			);
 			path = LYInfiniteScrollDemo;
+			sourceTree = "<group>";
+		};
+		ACC1B95E1CB3876200E9EC51 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				ACC1B95F1CB3876200E9EC51 /* 001.jpg */,
+				ACC1B9601CB3876200E9EC51 /* 002.jpg */,
+				ACC1B9611CB3876200E9EC51 /* 003.jpg */,
+				ACC1B9621CB3876200E9EC51 /* 004.jpg */,
+				ACC1B9631CB3876200E9EC51 /* 005.jpg */,
+				ACC1B9641CB3876200E9EC51 /* 006.jpg */,
+				ACC1B9651CB3876200E9EC51 /* 007.jpg */,
+				ACC1B9661CB3876200E9EC51 /* 008.jpg */,
+				ACC1B9671CB3876200E9EC51 /* 009.jpg */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		ACC1B9711CB396C400E9EC51 /* Collection */ = {
+			isa = PBXGroup;
+			children = (
+				ACC1B95C1CB35BC800E9EC51 /* CollectionViewController.swift */,
+				ACC1B9721CB397B400E9EC51 /* CustomLayout.swift */,
+			);
+			path = Collection;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +204,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACC1B96D1CB3876200E9EC51 /* 006.jpg in Resources */,
+				ACC1B96B1CB3876200E9EC51 /* 004.jpg in Resources */,
+				ACC1B96F1CB3876200E9EC51 /* 008.jpg in Resources */,
+				ACC1B9701CB3876200E9EC51 /* 009.jpg in Resources */,
 				ACC1B9551CB350A400E9EC51 /* LaunchScreen.storyboard in Resources */,
+				ACC1B96E1CB3876200E9EC51 /* 007.jpg in Resources */,
 				ACC1B9521CB350A400E9EC51 /* Assets.xcassets in Resources */,
+				ACC1B96C1CB3876200E9EC51 /* 005.jpg in Resources */,
 				ACC1B9501CB350A400E9EC51 /* Main.storyboard in Resources */,
+				ACC1B96A1CB3876200E9EC51 /* 003.jpg in Resources */,
+				ACC1B9691CB3876200E9EC51 /* 002.jpg in Resources */,
+				ACC1B9681CB3876200E9EC51 /* 001.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,7 +226,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACC1B95D1CB35BC800E9EC51 /* CollectionViewController.swift in Sources */,
+				AC16DF551CBE2B0C00BA2015 /* ViewsViewController.swift in Sources */,
+				AC477A601CBCA3A7000EA1E8 /* ScrollViewController.swift in Sources */,
 				ACC1B94D1CB350A400E9EC51 /* ViewController.swift in Sources */,
+				ACC1B9731CB397B400E9EC51 /* CustomLayout.swift in Sources */,
+				AC17657F1CB5EB60003A70A7 /* TableViewController.swift in Sources */,
 				ACC1B94B1CB350A400E9EC51 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -284,6 +380,7 @@
 				ACC1B95B1CB350A400E9EC51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
